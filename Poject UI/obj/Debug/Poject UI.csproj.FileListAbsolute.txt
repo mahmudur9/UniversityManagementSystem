@@ -1,0 +1,10 @@
+C:\Users\AKASH\RiderProjects\Poject UI\Poject UI\bin\Debug\Poject_UI.exe.config
+C:\Users\AKASH\RiderProjects\Poject UI\Poject UI\bin\Debug\Poject_UI.exe
+C:\Users\AKASH\RiderProjects\Poject UI\Poject UI\bin\Debug\Poject_UI.pdb
+C:\Users\AKASH\RiderProjects\Poject UI\Poject UI\obj\Debug\Poject UI.csprojAssemblyReference.cache
+C:\Users\AKASH\RiderProjects\Poject UI\Poject UI\obj\Debug\Poject_UI.Properties.Resources.resources
+C:\Users\AKASH\RiderProjects\Poject UI\Poject UI\obj\Debug\Poject UI.csproj.GenerateResource.cache
+C:\Users\AKASH\RiderProjects\Poject UI\Poject UI\obj\Debug\Poject UI.csproj.CoreCompileInputs.cache
+C:\Users\AKASH\RiderProjects\Poject UI\Poject UI\obj\Debug\Poject_UI.exe
+C:\Users\AKASH\RiderProjects\Poject UI\Poject UI\obj\Debug\Poject_UI.pdb
+C:\Users\AKASH\RiderProjects\Poject UI\Poject UI\obj\Debug\Poject_UI.Form1.resources
