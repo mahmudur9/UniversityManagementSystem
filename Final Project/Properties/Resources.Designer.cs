@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Poject_UI.Properties
+namespace Final_Project.Properties
 {
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
@@ -45,7 +45,7 @@ namespace Poject_UI.Properties
                 if ((resourceMan == null))
                 {
                     global::System.Resources.ResourceManager temp =
-                        new global::System.Resources.ResourceManager("Poject_UI.Properties.Resources",
+                        new global::System.Resources.ResourceManager("Final_Project.Properties.Resources",
                             typeof(Resources).Assembly);
                     resourceMan = temp;
                 }

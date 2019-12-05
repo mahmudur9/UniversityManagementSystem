@@ -1,0 +1,20 @@
+C:\Users\AKASH\RiderProjects\Final Project\Final Project\bin\Debug\Final_Project.exe.config
+C:\Users\AKASH\RiderProjects\Final Project\Final Project\bin\Debug\Final_Project.exe
+C:\Users\AKASH\RiderProjects\Final Project\Final Project\bin\Debug\Final_Project.pdb
+C:\Users\AKASH\RiderProjects\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\AKASH\RiderProjects\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\AKASH\RiderProjects\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\AKASH\RiderProjects\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\AKASH\RiderProjects\Final Project\Final Project\obj\Debug\Final_Project.exe
+C:\Users\AKASH\RiderProjects\Final Project\Final Project\obj\Debug\Final_Project.pdb
+C:\Users\AKASH\RiderProjects\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\bin\Debug\Final_Project.exe.config
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\bin\Debug\Final_Project.exe
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\bin\Debug\Final_Project.pdb
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final_Project.Form1.resources
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final_Project.exe
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final_Project.pdb
