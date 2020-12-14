@@ -5,13 +5,23 @@
     <e p="C:\Users\AKASH\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Final Project.702641195.00" t="ExcludeRecursive" />
     <e p="D:\Projects\C#\Windos Form\UniversityManagementSystem" t="IncludeFlat">
       <e p="Final Project" t="IncludeRecursive">
+        <e p="AccountantPortal.cs" t="Include" />
+        <e p="AccountantPortal.Designer.cs" t="Include" />
+        <e p="AccountantPortal.resx" t="Include" />
+        <e p="AdminPortal.cs" t="Include" />
+        <e p="AdminPortal.Designer.cs" t="Include" />
+        <e p="AdminPortal.resx" t="Include" />
         <e p="App.config" t="Include" />
+        <e p="AssignClass.cs" t="Include" />
+        <e p="AssignClass.Designer.cs" t="Include" />
+        <e p="AssignClass.resx" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Final Project.csproj" t="IncludeRecursive" />
-        <e p="Form1.cs" t="Include" />
-        <e p="Form1.Designer.cs" t="Include" />
-        <e p="Form1.resx" t="Include" />
+        <e p="Login.cs" t="Include" />
+        <e p="Login.Designer.cs" t="Include" />
+        <e p="Login.resx" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
+        <e p="PasswordResetForm.cs" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
@@ -20,6 +30,17 @@
           <e p="Settings.Designer.cs" t="Include" />
           <e p="Settings.settings" t="Include" />
         </e>
+        <e p="Register.cs" t="Include" />
+        <e p="Register.Designer.cs" t="Include" />
+        <e p="Register.resx" t="Include" />
+        <e p="StudentPassResetForm.Designer.cs" t="Include" />
+        <e p="StudentPassResetForm.resx" t="Include" />
+        <e p="StudentPortal.cs" t="Include" />
+        <e p="StudentPortal.Designer.cs" t="Include" />
+        <e p="StudentPortal.resx" t="Include" />
+        <e p="TeacherPortal.cs" t="Include" />
+        <e p="TeacherPortal.Designer.cs" t="Include" />
+        <e p="TeacherPortal.resx" t="Include" />
       </e>
       <e p="Final Project.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />

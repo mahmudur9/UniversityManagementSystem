@@ -1,11 +1,13 @@
-﻿namespace Final_Project
+﻿using System.ComponentModel;
+
+namespace Final_Project
 {
-    partial class Form1
+    partial class AccountantPortal
     {
         /// <summary>
         /// Required designer variable.
         /// </summary>
-        private System.ComponentModel.IContainer components = null;
+        private IContainer components = null;
 
         /// <summary>
         /// Clean up any resources being used.
@@ -31,15 +33,15 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // AccountantPortal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(933, 519);
+            this.ClientSize = new System.Drawing.Size(927, 513);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
-            this.Name = "Form1";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.MaximizeBox = false;
+            this.Name = "AccountantPortal";
+            this.Text = "AccountantPortal";
             this.ResumeLayout(false);
         }
 

@@ -12,9 +12,16 @@ D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\bin\Debug\Fi
 D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\bin\Debug\Final_Project.exe
 D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\bin\Debug\Final_Project.pdb
 D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
-D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final_Project.Form1.resources
 D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
 D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
 D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
 D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final_Project.exe
 D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final_Project.pdb
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final_Project.Register.resources
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final_Project.Login.resources
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final_Project.AccountantPortal.resources
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final_Project.AdminPortal.resources
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final_Project.StudentPortal.resources
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final_Project.TeacherPortal.resources
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final_Project.PasswordResetForm.resources
+D:\Projects\C#\Windos Form\UniversityManagementSystem\Final Project\obj\Debug\Final_Project.AssignClass.resources
